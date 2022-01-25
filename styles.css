@@ -1,6 +1,6 @@
 * {
-  margin: 16px;
-  padding: 16px;
+  margin: 0px;
+  padding: 0px;
 }
 
 body {
@@ -37,5 +37,6 @@ body {
 }
 
 h1 {
+  margin: 8px;
   font-size: 69px;
 }
